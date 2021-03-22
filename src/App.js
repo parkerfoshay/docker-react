@@ -1,4 +1,4 @@
-import logo from './bcat.png';
+import logo from './screaming-cat.png';
 import './App.css';
 
 function App() {
